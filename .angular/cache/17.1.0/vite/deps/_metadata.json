@@ -1,0 +1,49 @@
+{
+  "hash": "93c4f5d4",
+  "configHash": "7b708eb0",
+  "lockfileHash": "c81c9bf5",
+  "browserHash": "52ba6191",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "331a3d4e",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ade5bd5d",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "d22d0f93",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "7d0b525e",
+      "needsInterop": false
+    },
+    "primeng/button": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-button.mjs",
+      "file": "primeng_button.js",
+      "fileHash": "3ae01f9e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-7ROEG5FO": {
+      "file": "chunk-7ROEG5FO.js"
+    },
+    "chunk-2JOM4EE6": {
+      "file": "chunk-2JOM4EE6.js"
+    },
+    "chunk-7UBRETAF": {
+      "file": "chunk-7UBRETAF.js"
+    }
+  }
+}
